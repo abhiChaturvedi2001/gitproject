@@ -9,7 +9,7 @@ This project provides an API to fetch GitHub profile details, repository informa
 
 ## Deployment
 This API is deployed on **Vercel**.
-To check out the API for testing base url is https://gitproject-phi.vercel.app/github/profile
+To check out the API for testing base url is https://gitproject-phi.vercel.app/github
 
 ## API Endpoints
 
